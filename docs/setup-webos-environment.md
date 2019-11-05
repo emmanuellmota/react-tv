@@ -6,17 +6,17 @@ Install the Package for your current OS:
 
 ### OSX
 
-- [MacOS 64-bit Installer](https://github.com/raphamorim/react-tv/releases/download/0.3.0-alpha.1/webOS_TV_SDK_Installer_macosx.zip)
+- [MacOS 64-bit Installer](https://github.com/emmanuellmota/react-tv/releases/download/0.3.0-alpha.1/webOS_TV_SDK_Installer_macosx.zip)
 
 ### Linux
 
-- [Linux 64-bit Installer](https://github.com/raphamorim/react-tv/releases/download/0.3.0-alpha.1/webOS_TV_SDK_Installer_linux64.zip)
-- [Linux 32-bit Installer](https://github.com/raphamorim/react-tv/releases/download/0.3.0-alpha.1/webOS_TV_SDK_Installer_linux32.zip)
+- [Linux 64-bit Installer](https://github.com/emmanuellmota/react-tv/releases/download/0.3.0-alpha.1/webOS_TV_SDK_Installer_linux64.zip)
+- [Linux 32-bit Installer](https://github.com/emmanuellmota/react-tv/releases/download/0.3.0-alpha.1/webOS_TV_SDK_Installer_linux32.zip)
 
 ### Windows
 
-- [Windows 64-bit Installer](https://github.com/raphamorim/react-tv/releases/download/0.3.0-alpha.1/webOS_TV_SDK_Installer_win64.zip)
-- [Windows 32-bit Installer](https://github.com/raphamorim/react-tv/releases/download/0.3.0-alpha.1/webOS_TV_SDK_Installer_win32.zip)
+- [Windows 64-bit Installer](https://github.com/emmanuellmota/react-tv/releases/download/0.3.0-alpha.1/webOS_TV_SDK_Installer_win64.zip)
+- [Windows 32-bit Installer](https://github.com/emmanuellmota/react-tv/releases/download/0.3.0-alpha.1/webOS_TV_SDK_Installer_win32.zip)
 
 ### Setting Up!
 

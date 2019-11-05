@@ -1,4 +1,4 @@
-# [React-TV](https://github.com/raphamorim/react-tv) · [![license](https://img.shields.io/npm/l/react-tv.svg)]() [![npm version](https://img.shields.io/npm/v/react-tv.svg?style=flat)](https://www.npmjs.com/package/react-tv) [![circleci status](https://circleci.com/gh/raphamorim/react-tv/tree/master.svg?style=shield)](https://circleci.com/gh/raphamorim/react-tv) [![Build status](https://ci.appveyor.com/api/projects/status/a9uh7sdg2njyojjd/branch/master?svg=true)](https://ci.appveyor.com/project/raphamorim/react-tv/branch/master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md#pull-requests)
+# [React-TV](https://github.com/emmanuellmota/react-tv) · [![license](https://img.shields.io/npm/l/react-tv.svg)]() [![npm version](https://img.shields.io/npm/v/react-tv.svg?style=flat)](https://www.npmjs.com/package/react-tv) [![circleci status](https://circleci.com/gh/emmanuellmota/react-tv/tree/master.svg?style=shield)](https://circleci.com/gh/emmanuellmota/react-tv) [![Build status](https://ci.appveyor.com/api/projects/status/a9uh7sdg2njyojjd/branch/master?svg=true)](https://ci.appveyor.com/project/emmanuellmota/react-tv/branch/master) [![PRs Welcome](https://img.shields.io/badge/PRs-welcome-brightgreen.svg)](CONTRIBUTING.md#pull-requests)
 
 > <p>react-tv: React Renderer for low memory applications.</p><p>react-tv-cli: React Packager for TVs.</p><p>Currently under development.</p>
 
@@ -90,7 +90,7 @@ $ yarn global add react-tv-cli
 | Target Platform | Status | Available Version |
 | --- | --- | --- |
 | `LG WebOS` | stable | 0.3.1 |
-| `Samsung Tizen` | [ongoing](https://github.com/raphamorim/react-tv/pull/104) | x |
+| `Samsung Tizen` | [ongoing](https://github.com/emmanuellmota/react-tv/pull/104) | x |
 | `Samsung Orsay` | not started yet | x |
 | `Sony PS4` | not started yet | x |
 | `Nintendo Switch` | not started yet | x |
@@ -237,7 +237,7 @@ See [examples/navigation](examples/navigation) for more details about usage.
 
 ## Examples
 
-### [Clock App](https://github.com/raphamorim/react-tv/tree/master/examples/clock-app)
+### [Clock App](https://github.com/emmanuellmota/react-tv/tree/master/examples/clock-app)
 
 ![Clock App Example](examples/clock-app/screenshot.png)
 
@@ -327,9 +327,9 @@ Add additional features users expect from a Renderer. Then fix bugs and stabiliz
 
 ---------------------------------------------------- 
 
-See ReactTV's [Changelog](https://github.com/raphamorim/react-tv/blob/master/CHANGELOG.md).
+See ReactTV's [Changelog](https://github.com/emmanuellmota/react-tv/blob/master/CHANGELOG.md).
 
-Currently ReactTV is licensed by [MIT License](https://github.com/raphamorim/react-tv/blob/master/LICENSE.md)
+Currently ReactTV is licensed by [MIT License](https://github.com/emmanuellmota/react-tv/blob/master/LICENSE.md)
 
 ## Credits
 

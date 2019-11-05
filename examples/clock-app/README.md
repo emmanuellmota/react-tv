@@ -3,7 +3,7 @@
 Clone the repository:
 
 ```shell
-git clone https://github.com/raphamorim/react-tv.git
+git clone https://github.com/emmanuellmota/react-tv.git
 ```
 
 Open this folder:

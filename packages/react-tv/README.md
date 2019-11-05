@@ -1,6 +1,6 @@
 # react-tv
 
-[See react-tv repository for more details](https://github.com/raphamorim/react-tv)
+[See react-tv repository for more details](https://github.com/emmanuellmota/react-tv)
 
 To install `react-tv` (React Renderer):
 

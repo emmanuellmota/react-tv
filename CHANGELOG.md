@@ -1,7 +1,7 @@
 # 0.4.3
 
 - react-tv-navigation in yarn workspaces
-- fixes for https://github.com/raphamorim/react-tv/issues/134
+- fixes for https://github.com/emmanuellmota/react-tv/issues/134
 
 # 0.4.0
 

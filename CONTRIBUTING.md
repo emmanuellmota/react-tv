@@ -6,9 +6,9 @@ React-TV adopted the same Code of Conduct of Facebook that we expect project par
 
 ## Good First Issues
 
-To help you get your feet wet and get you familiar with contribution process, we have a list of [good first issues](https://github.com/raphamorim/react-tv/labels/good%20first%20issue) that contain bugs which are fairly easy to fix. This is a great place to get started.
+To help you get your feet wet and get you familiar with contribution process, we have a list of [good first issues](https://github.com/emmanuellmota/react-tv/labels/good%20first%20issue) that contain bugs which are fairly easy to fix. This is a great place to get started.
 
 ## License
 
-React-TV is [MIT licensed](https://github.com/raphamorim/react-tv/blob/master/LICENSE.md).
+React-TV is [MIT licensed](https://github.com/emmanuellmota/react-tv/blob/master/LICENSE.md).
 
